@@ -13,13 +13,13 @@ html,body{
    
 }
 body{
-    background-image: url(./background.png);
+    /* background-image: url(./background.png); */
+    background-image: url(https://i.pinimg.com/originals/0e/79/4e/0e794ed12047a3c2566c2c182f91a32f.png);
     background-position: center;
     background-size: cover;
 }
 .main{
     min-height:100vh;
-    /* background-image: url(https://i.pinimg.com/originals/0e/79/4e/0e794ed12047a3c2566c2c182f91a32f.png); */
     display: flex;
     flex-direction: column;
     gap:1vh;
