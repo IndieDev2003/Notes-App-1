@@ -60,6 +60,7 @@ body{
     min-height:100px;
     max-width:95%;
     min-width:45%;
+    color:black;
     background-color: rgb(216, 235, 250);
     padding:10px;
     border-radius:5px;
