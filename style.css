@@ -77,10 +77,20 @@ body{
     bottom:10px;
 }
 .footer{
-    height:10vh;
+    height:13vh;
     display: flex;
     align-items: center;
+    justify-content: center;
     margin-top:12px;
+    border-radius: 23px;
+    width:60vw;
+    background: linear-gradient(120deg,#f59af086,#1df3f3ad);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+}
+.footer h2{
+    text-align: center;
+    font-size:1.2rem;
 }
 .footer span{
     color:red;
